@@ -83,22 +83,22 @@ export const Introduce: React.FC = () => {
         {
             icon: 'github',
             label: 'GitHub',
-            link: 'https://t.me/dtsh39'
+            link: 'https://github.com/sdasda744'
         },
         {
             icon: 'telegram',
             label: 'Telegram',
-            link: 'https://t.me/dtsh39'
+            link: 'https://t.me/min_t6699'
         },
         {
             icon: 'facebook',
             label: 'Facebook',
-            link: 'https://t.me/dtsh39'
+            link: 'https://t.me/min_t6699'
         },
         {
             icon: 'linkedin',
             label: 'LinkedIn',
-            link: 'https://t.me/dtsh39'
+            link: 'https://t.me/min_t6699'
         }
     ]
 
@@ -115,7 +115,7 @@ export const Introduce: React.FC = () => {
                     src={avatarPic}
                     layout={'fill'}
                     objectFit={'cover'}
-                    alt={"Hi I'm - Da Shan - Picture of the author"}
+                    alt={'...'}
                 />
             </div>
             <div className={styles.infoContainer}>
@@ -123,7 +123,7 @@ export const Introduce: React.FC = () => {
                     <div className={styles.title}>
                         <h1>
                             {"Hi I'm - "}
-                            <span>{'Da Shan'}</span>
+                            <span>{'Min Thant'}</span>
                         </h1>
 
                         <div className={styles.links}>
